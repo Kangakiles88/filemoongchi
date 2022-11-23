@@ -111,14 +111,6 @@ button {
     flex-direction: row;
 }
 
-.navbar__toggle-btn {
-    position: absolute;
-    right: 32px;
-    font-size: 28px;
-    background-color: white;
-    display:none;
-}
-
 .navbar__toggle-btn i {
     color: var(--color-dark-gray);
 }
@@ -153,7 +145,7 @@ a.nav-link:hover {
 }
 
 .title__menu {
-    width: 1200px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
@@ -291,7 +283,8 @@ a.nav-link:hover {
 @media screen and (max-width: 960px) {
     
     body {
-        margin: 0;
+        margin-right: 5px;
+        margin-left: 5px;
     }
 
     :root {
@@ -303,9 +296,34 @@ a.nav-link:hover {
     }
 
     p {
-        font-size: var(--font-size-small);
+        font-size: var(--font-size-micro);
         margin: 4px 0;
     }
+
+    #header {
+        font-size: var(--font-size-micro);
+        height: 50px;
+    }
+
+    #header .title__menu .logo img {
+        margin-top: 10px;
+        margin-left: 20px;
+        width: 100px;
+    }
+    
+    #header .title__menu .navbar-nav .nav-item {
+        margin: 0;
+        padding: 0;
+    }   
+
+    #header .title__menu .navbar-nav .nav-item a {
+        margin-right: 20px;
+        margin-bottom: 30px;
+    }
+
+    .container {
+        width:100%;
+    }  
 
     .content {
         width: 100%;
@@ -338,6 +356,6 @@ a.nav-link:hover {
     }
 
     #footer {
-        font-size: var(--font-size-small);
+        font-size: var(--font-size-micro);
     }
 }
