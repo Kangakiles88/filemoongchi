@@ -105,6 +105,10 @@ button {
     margin-left: 40px;
 }
 
+#header .title__menu {
+    width: 1200px;
+}
+
 #header .navbar-nav {
     margin-top: 10px;
     display: flex;
