@@ -272,6 +272,14 @@ a.nav-link:hover {
     text-align: center;
 }
 
+#footer {
+    color: var(--color-dark-gray);
+    height: 150px;
+    text-align: center;
+    margin-top: 100px;
+    font-size: var(--font-size-micro);
+}
+
 /* article pages */
 
 #side__menu {
@@ -325,16 +333,6 @@ a.nav-link:hover {
 
 
 
-#footer {
-    color: var(--color-dark-gray);
-    height: 150px;
-    text-align: center;
-    margin-top: 100px;
-}
-
-#footer p {
-    margin-top: 50px;
-}
 
 @media screen and (max-width: 960px) {
     
