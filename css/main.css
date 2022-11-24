@@ -297,7 +297,6 @@ a.nav-link:hover {
 #article__container {
     width: 1200px;
     margin: 0 auto;
-    background-color: var(--color-light-gray);
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -318,7 +317,7 @@ a.nav-link:hover {
 }
 
 .article__content img {
-    width: 800px;
+    width: 600px;
     height: 400px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -331,6 +330,10 @@ a.nav-link:hover {
     height: 150px;
     text-align: center;
     margin-top: 100px;
+}
+
+#footer p {
+    margin-top: 50px;
 }
 
 @media screen and (max-width: 960px) {
@@ -430,8 +433,19 @@ a.nav-link:hover {
         background-color: var(--color-light-gray);
     }
 
+    .article__content h2 {
+        margin: 0;
+    }
+
+    .article__content p {
+        margin: 0;
+        padding: 0;
+        font-size: var(--font-size-micro);
+    }
+
     .article__content img {
-        width: 100%
+        width: 100%;
+        height: 300px;
     }
 
     #footer {
