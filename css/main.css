@@ -331,9 +331,6 @@ a.nav-link:hover {
     margin-bottom: 30px;
 }
 
-
-
-
 @media screen and (max-width: 960px) {
     
     body {
@@ -423,12 +420,17 @@ a.nav-link:hover {
         line-height: 25px;
         margin-top: 0;
         margin-bottom: 0;
-    }  
+        background-color: var(--color-light-gray);
+    } 
+    
+    #side__menu ul {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
 
     #article__container {
         width: 100%;
         margin: 0 auto;
-        background-color: var(--color-light-gray);
     }
 
     .article__content h2 {
