@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<!-- created with sitemap generator https://octopus.do -->
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 
 <url>
 
-<loc>https://filemc.io</loc>
+<loc>https://filemc.io/</loc>
 
-<lastmod>2022-12-22</lastmod>
+<lastmod>2022-12-28T11:10:51+00:00</lastmod>
 
-<changefreq>always</changefreq>
-
-<priority>0.5</priority>
+<priority>1.00</priority>
 
 </url>
 
@@ -23,11 +21,9 @@
 
 <loc>https://filemc.io/index.html</loc>
 
-<lastmod>2022-12-22</lastmod>
+<lastmod>2022-12-28T11:10:51+00:00</lastmod>
 
-<changefreq>always</changefreq>
-
-<priority>0.5</priority>
+<priority>0.80</priority>
 
 </url>
 
@@ -36,11 +32,9 @@
 
 <loc>https://filemc.io/notice/3.html</loc>
 
-<lastmod>2022-12-22</lastmod>
+<lastmod>2022-12-28T11:10:51+00:00</lastmod>
 
-<changefreq>always</changefreq>
-
-<priority>0.5</priority>
+<priority>0.80</priority>
 
 </url>
 
@@ -49,11 +43,9 @@
 
 <loc>https://filemc.io/6.html</loc>
 
-<lastmod>2022-12-22</lastmod>
+<lastmod>2022-12-28T11:10:51+00:00</lastmod>
 
-<changefreq>always</changefreq>
-
-<priority>0.5</priority>
+<priority>0.80</priority>
 
 </url>
 
@@ -62,11 +54,9 @@
 
 <loc>https://filemc.io/8.html</loc>
 
-<lastmod>2022-12-22</lastmod>
+<lastmod>2022-12-28T11:10:51+00:00</lastmod>
 
-<changefreq>always</changefreq>
-
-<priority>0.5</priority>
+<priority>0.64</priority>
 
 </url>
 
@@ -75,11 +65,9 @@
 
 <loc>https://filemc.io/7.html</loc>
 
-<lastmod>2022-12-22</lastmod>
+<lastmod>2022-12-28T11:10:51+00:00</lastmod>
 
-<changefreq>always</changefreq>
-
-<priority>0.5</priority>
+<priority>0.64</priority>
 
 </url>
 
@@ -88,11 +76,9 @@
 
 <loc>https://filemc.io/9.html</loc>
 
-<lastmod>2022-12-22</lastmod>
+<lastmod>2022-12-28T11:10:51+00:00</lastmod>
 
-<changefreq>always</changefreq>
-
-<priority>0.5</priority>
+<priority>0.64</priority>
 
 </url>
 
@@ -101,11 +87,9 @@
 
 <loc>https://filemc.io/10.html</loc>
 
-<lastmod>2022-12-22</lastmod>
+<lastmod>2022-12-28T11:10:51+00:00</lastmod>
 
-<changefreq>always</changefreq>
-
-<priority>0.5</priority>
+<priority>0.64</priority>
 
 </url>
 
@@ -114,11 +98,9 @@
 
 <loc>https://filemc.io/11.html</loc>
 
-<lastmod>2022-12-22</lastmod>
+<lastmod>2022-12-28T11:10:51+00:00</lastmod>
 
-<changefreq>always</changefreq>
-
-<priority>0.5</priority>
+<priority>0.64</priority>
 
 </url>
 
