@@ -280,6 +280,34 @@ a.nav-link:hover {
     font-size: var(--font-size-micro);
 }
 
+.copyright {
+    color: var(--color-dark-gray);
+    font-size: var(--font-size-micro);
+}
+
+.copyright a {
+    color: #7f8281;
+    font-size: var(--font-size-micro);
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+}
+
+.link ul {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    width: 1200px;
+}
+
+.link a {
+    font-size: 0.9rem;
+    color:#7f8281;
+    margin-right: 5px;
+}
+
 /* article pages */
 
 #side__menu {
