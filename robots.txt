@@ -1,3 +1,34 @@
 User-agent: *
-Allow:/
-#DaumWebMasterTool:5703243eb87f017b10de93376db1cc27b003bbae87cb73ec509ca78b964074c3:d/Foo/jdd3mile3QAxEoaw==
+Disallow: /
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: Googlebot
+Allow: /$
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: Bingbot
+Allow: /$
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: Naverbot
+Allow: /$
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: Daum
+Allow: /$
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: Yeti
+Allow: /$
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: Yandex
+Allow: /$
+Disallow: /admin/
+Disallow: /private/
